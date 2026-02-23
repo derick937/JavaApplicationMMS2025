@@ -26,6 +26,6 @@ public class UserInput{
 		System.out.printf("Hello %s , How are you today?",fullname);
 		System.out.printf("Nice meeting you , you are living in %s",address);
 		System.out.printf("%s, you are %d years old",fuLLName,age);
-		System.ouut.printf("You are ")
+		System.ouut.printf("You are a  ")
 	}
 }
